@@ -20,7 +20,8 @@ export default defineConfig({
 					label: 'Welcome',
 					items: [
 						{ label: 'About me', link: '/welcome' },
-						{ label: 'My experience', link: '/experience' },
+						{ label: 'Experience', link: '/experience' },
+						{ label: 'Ask me anything', link: '/contact' },
 					],
 				},
 				{
