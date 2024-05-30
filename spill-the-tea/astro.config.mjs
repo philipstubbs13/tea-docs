@@ -40,6 +40,7 @@ export default defineConfig({
 					label: 'Notes',
 					items: [
 						{ label: 'React Compiler', link: '/notes/react-compiler' },
+						{ label: 'React 19 Changes', link: '/notes/react-19-changes' },
 					],
 				},
 			],
