@@ -41,6 +41,7 @@ export default defineConfig({
 					items: [
 						{ label: 'React Compiler', link: '/notes/react-compiler' },
 						{ label: 'React 19 Changes', link: '/notes/react-19-changes' },
+						{ label: 'JavaScript 2024 Features', link: '/notes/javascript-2024-features' },
 					],
 				},
 			],
