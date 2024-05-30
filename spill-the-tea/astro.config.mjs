@@ -36,6 +36,12 @@ export default defineConfig({
 						{ label: 'Samples', link: '/technical-writing' },
 					],
 				},
+				{
+					label: 'Notes',
+					items: [
+						{ label: 'React Compiler', link: '/notes/react-compiler' },
+					],
+				},
 			],
 		}),
 	],
