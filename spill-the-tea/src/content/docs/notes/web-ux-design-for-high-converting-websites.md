@@ -22,3 +22,4 @@ description: A guide in my new Starlight docs site.
     * <https://maze.co/>
     * <https://attentioninsight.com/>
     * <https://www.realeye.io/>
+    * <https://clarity.microsoft.com/>
