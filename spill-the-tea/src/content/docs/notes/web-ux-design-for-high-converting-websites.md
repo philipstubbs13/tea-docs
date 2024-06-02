@@ -13,3 +13,12 @@ description: A guide in my new Starlight docs site.
 * Dark Patterns
     * <https://www.smashingmagazine.com/printed-books/click/>
     * <https://www.deceptive.design/>
+* Content
+    * <https://coschedule.com/headline-analyzer>
+    * <https://hemingwayapp.com/>
+    * <https://www.grammarly.com/>
+    * <https://jeffwalker.com/programs/book-launch/>
+* Usability Testing
+    * <https://maze.co/>
+    * <https://attentioninsight.com/>
+    * <https://www.realeye.io/>
