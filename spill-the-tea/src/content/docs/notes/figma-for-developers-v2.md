@@ -7,3 +7,4 @@ description: A guide in my new Starlight docs site.
 * Course Website: <https://stevekinney.net/courses/figma>
 * Course Figma File: <https://www.figma.com/community/file/1362026240901861662/figma-for-developers-v2-frontend-masters>
 *  <https://uicolors.app/create>
+* <https://stevekinney.net/tools/figma-variables>
