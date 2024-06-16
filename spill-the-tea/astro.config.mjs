@@ -45,6 +45,7 @@ export default defineConfig({
 						{ label: 'Web UX Design for High Converting Websites', link: '/notes/web-ux-design-for-high-converting-websites' },
 						{ label: 'Guide for Launching Your Next Big Idea', link: '/notes/guide-for-launching-your-next-big-idea' },
 						{ label: 'Figma for Developers, v2', link: '/notes/figma-for-developers-v2' },
+						{ label: 'Design Systems with Storybook, v2', link: '/notes/design-systems-with-storybook-v2' },
 					],
 				},
 			],
