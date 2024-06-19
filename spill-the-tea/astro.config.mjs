@@ -46,6 +46,8 @@ export default defineConfig({
 						{ label: 'Guide for Launching Your Next Big Idea', link: '/notes/guide-for-launching-your-next-big-idea' },
 						{ label: 'Figma for Developers, v2', link: '/notes/figma-for-developers-v2' },
 						{ label: 'Design Systems with Storybook, v2', link: '/notes/design-systems-with-storybook-v2' },
+						{ label: 'Machine Learning in JavaScript', link: '/notes/machine-learning-in-javascript' },
+
 					],
 				},
 			],
