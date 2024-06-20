@@ -10,3 +10,4 @@ description: A guide in my new Starlight docs site.
 * <https://charliegerard.dev/projects/>
 * <https://teachablemachine.withgoogle.com/>
 * <https://teachablemachine.withgoogle.com/train/audio>
+* <https://cs231n.github.io/convolutional-networks/>
