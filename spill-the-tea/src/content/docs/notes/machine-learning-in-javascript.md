@@ -11,3 +11,4 @@ description: A guide in my new Starlight docs site.
 * <https://teachablemachine.withgoogle.com/>
 * <https://teachablemachine.withgoogle.com/train/audio>
 * <https://cs231n.github.io/convolutional-networks/>
+* <https://charliegerard.dev/project/street-fighter-ml/>
