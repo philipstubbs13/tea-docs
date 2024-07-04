@@ -48,6 +48,7 @@ export default defineConfig({
 						{ label: 'Design Systems with Storybook, v2', link: '/notes/design-systems-with-storybook-v2' },
 						{ label: 'Machine Learning in JavaScript', link: '/notes/machine-learning-in-javascript' },
 						{ label: 'Complete Intro to Computer Science', link: '/notes/complete-intro-to-computer-science' },
+						{ label: 'Client-Side GraphQL with React, v2', link: '/notes/client-side-graphql-with-react' },
 					],
 				},
 			],
