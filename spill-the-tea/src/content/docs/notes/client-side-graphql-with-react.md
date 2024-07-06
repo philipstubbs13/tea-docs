@@ -8,3 +8,4 @@ description: A guide in my new Starlight docs site.
 * Course GitHub repo: <https://github.com/Hendrixer/clientside-gql>
 * Star Wars graphql api: <https://studio.apollographql.com/public/star-wars-swapi/variant/current/home>
 * <https://commerce.nearform.com/open-source/urql/docs/>
+* <https://www.codegen.com/>
