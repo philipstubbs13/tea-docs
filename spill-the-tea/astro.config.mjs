@@ -50,6 +50,7 @@ export default defineConfig({
 						{ label: 'Complete Intro to Computer Science', link: '/notes/complete-intro-to-computer-science' },
 						{ label: 'Client-Side GraphQL with React, v2', link: '/notes/client-side-graphql-with-react' },
 						{ label: 'Server Side GraphQL in Next.js', link: '/notes/server-side-graphql-nextjs' },
+						{ label: 'Intermediatee Next.js', link: '/notes/intermediate-nextjs' },
 					],
 				},
 			],
