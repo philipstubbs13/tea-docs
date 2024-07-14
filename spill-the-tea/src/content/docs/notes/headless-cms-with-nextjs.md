@@ -17,3 +17,7 @@ description: A guide in my new Starlight docs site.
 * <https://nextjs.org/docs/app/building-your-application/configuring/draft-mode>
 * <https://liveblocks.io/>
 * <https://nextjs.org/docs/pages/building-your-application/data-fetching/incremental-static-regeneration>
+* <https://www.builder.io/>
+* <https://prismic.io/>
+* <https://www.storyblok.com/>
+* <https://www.framer.com/>
