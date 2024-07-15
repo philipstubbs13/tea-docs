@@ -52,6 +52,7 @@ export default defineConfig({
 						{ label: 'Server Side GraphQL in Next.js', link: '/notes/server-side-graphql-nextjs' },
 						{ label: 'Headless CMS with Next.js', link: '/notes/headless-cms-with-nextjs' },
 						{ label: 'Intermediatee Next.js', link: '/notes/intermediate-nextjs' },
+						{ label: 'Prisma', link: '/notes/prisma' },
 					],
 				},
 			],
