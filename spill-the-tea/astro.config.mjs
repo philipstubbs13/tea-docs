@@ -86,6 +86,10 @@ export default defineConfig({
               label: "Front-End System Design",
               link: "/notes/frontend-system-design",
             },
+            {
+              label: "Backend Architectures",
+              link: "/notes/backend-architectures",
+            },
           ],
         },
       ],
