@@ -90,6 +90,10 @@ export default defineConfig({
               label: "Backend Architectures",
               link: "/notes/backend-architectures",
             },
+            {
+              label: "Professional JS",
+              link: "/notes/professional-js-features",
+            },
           ],
         },
       ],
