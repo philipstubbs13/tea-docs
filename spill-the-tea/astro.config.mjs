@@ -94,6 +94,14 @@ export default defineConfig({
               label: "Professional JS",
               link: "/notes/professional-js-features",
             },
+            {
+              label: "Last Algorithms Course You'll Need",
+              link: "/notes/last-algorithms-course-youll-need",
+            },
+            {
+              label: "JavaScript Design Patterns for Web Apps",
+              link: "/notes/javascript-design-patterns-for-web-apps",
+            },
           ],
         },
       ],
