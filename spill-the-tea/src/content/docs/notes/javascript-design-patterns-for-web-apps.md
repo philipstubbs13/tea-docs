@@ -7,3 +7,4 @@ description: A guide in my new Starlight docs site.
 
 * Course Website: <https://firtman.github.io/webapp-patterns/>
 * Course Code: <https://github.com/firtman/webapp-patterns-projects>
+* Slides: <https://firtman.github.io/webapp-patterns/slides.pdf>
