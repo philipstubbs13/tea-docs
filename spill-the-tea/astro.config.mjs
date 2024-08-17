@@ -102,6 +102,10 @@ export default defineConfig({
               label: "JavaScript Design Patterns for Web Apps",
               link: "/notes/javascript-design-patterns-for-web-apps",
             },
+            {
+              label: "Intro to Containers",
+              link: "/notes/intro-to-containers",
+            },
           ],
         },
       ],
