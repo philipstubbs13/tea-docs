@@ -106,6 +106,10 @@ export default defineConfig({
               label: "Intro to Containers",
               link: "/notes/intro-to-containers",
             },
+            {
+              label: "PHP Fundamentals",
+              link: "/notes/php-fundamentals",
+            },
           ],
         },
       ],
