@@ -110,6 +110,10 @@ export default defineConfig({
               label: "PHP Fundamentals",
               link: "/notes/php-fundamentals",
             },
+            {
+              label: "Web Security",
+              link: "/notes/web-security",
+            },
           ],
         },
       ],
