@@ -7,3 +7,6 @@ description: A guide in my new Starlight docs site.
 
 * <https://stevekinney.net/courses/web-security>
 * <https://speakerdeck.com/stevekinney/web-security-frontend-masters>
+* <https://publicsuffix.org/learn/index.html>
+* <https://github.com/cure53/DOMPurify>
+* <https://github.com/payloadbox/xss-payload-list>
