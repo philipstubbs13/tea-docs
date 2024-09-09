@@ -114,6 +114,14 @@ export default defineConfig({
               label: "Web Security",
               link: "/notes/web-security",
             },
+            {
+              label: "Java Fundamentals",
+              link: "/notes/java-fundamentals",
+            },
+            {
+              label: "Progressive Web Apps",
+              link: "/notes/progressive-web-apps",
+            },
           ],
         },
       ],
