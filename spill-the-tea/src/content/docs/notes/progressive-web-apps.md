@@ -7,4 +7,4 @@ description: A guide in my new Starlight docs site.
 
 * course slides: <https://github.com/firtman/frontendmasters-pwa/blob/starting-code/slides.pdf>
 * course code <https://github.com/firtman/frontendmasters-pwa>
-* Learn PWA: <https://web.dev/learn/pwa>
+* Learn PWA: <https://web.dev/learn/pwa>.
