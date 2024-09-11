@@ -24,3 +24,6 @@ description: A guide in my new Starlight docs site.
 * <https://github.com/GoogleChrome/workbox>
 * <https://developer.chrome.com/docs/web-platform/virtual-keyboard>
 * <https://developer.mozilla.org/en-US/docs/Web/API/Navigator/getInstalledRelatedApps>
+* <https://squoosh.app/>
+* <https://www.pwabuilder.com/>
+* <https://firt.dev/>
