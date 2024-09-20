@@ -122,6 +122,10 @@ export default defineConfig({
               label: "Progressive Web Apps",
               link: "/notes/progressive-web-apps",
             },
+            {
+              label: "Software Developer Success",
+              link: "/notes/software-developer-success",
+            },
           ],
         },
       ],
