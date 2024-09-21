@@ -126,6 +126,10 @@ export default defineConfig({
               label: "Software Developer Success",
               link: "/notes/software-developer-success",
             },
+            {
+              label: "React Native",
+              link: "/notes/react-native",
+            },
           ],
         },
       ],
