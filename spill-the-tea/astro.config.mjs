@@ -130,6 +130,10 @@ export default defineConfig({
               label: "React Native",
               link: "/notes/react-native",
             },
+            {
+              label: "Node.js",
+              link: "/notes/nodejs",
+            },
           ],
         },
       ],
