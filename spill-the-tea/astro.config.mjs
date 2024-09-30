@@ -134,6 +134,10 @@ export default defineConfig({
               label: "Node.js",
               link: "/notes/nodejs",
             },
+            {
+              label: "Intro to SQLite",
+              link: "/notes/intro-to-sqlite",
+            },
           ],
         },
       ],
