@@ -8,3 +8,5 @@ description: A guide in my new Starlight docs site.
 * <https://sqlite.holt.courses/>
 * <https://github.com/btholt/complete-intro-to-sqlite>
 * <https://haveibeenpwned.com/>
+* <https://www.usebruno.com/>
+* <https://electric-sql.com/>
