@@ -138,6 +138,10 @@ export default defineConfig({
               label: "Intro to SQLite",
               link: "/notes/intro-to-sqlite",
             },
+            {
+              label: "Intro to Databases",
+              link: "/notes/intro-to-databases",
+            },
           ],
         },
       ],
