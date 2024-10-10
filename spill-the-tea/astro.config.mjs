@@ -142,6 +142,10 @@ export default defineConfig({
               label: "Intro to Databases",
               link: "/notes/intro-to-databases",
             },
+            {
+              label: "Intro to Linux and the Command Line",
+              link: "/notes/intro-to-linux-and-the-command-line",
+            },
           ],
         },
       ],
