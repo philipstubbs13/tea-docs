@@ -146,6 +146,10 @@ export default defineConfig({
               label: "Intro to Linux and the Command Line",
               link: "/notes/intro-to-linux-and-the-command-line",
             },
+            {
+              label: "Developer Productivity",
+              link: "/notes/developer-productivity",
+            },
           ],
         },
       ],
