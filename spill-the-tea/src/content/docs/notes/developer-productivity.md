@@ -11,10 +11,11 @@ description: A guide in my new Starlight docs site.
 * <https://docs.ansible.com/ansible/latest/collections/ansible/builtin/git_module.html#examples>
 * <https://yadm.io/>
 * <https://www.gnu.org/software/stow/>
-* Windows Managers
+* Window Managers
   - MacOS: <https://github.com/koekeishiya/yabai>
   * Windows: <https://github.com/fuhsjr00/bug.n>
   * Ubuntu: <https://i3wm.org/>
+* <https://github.com/junegunn/fzf>
 
 ```bash
 ansible-playbook fem.yml
