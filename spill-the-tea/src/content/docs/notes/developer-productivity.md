@@ -16,6 +16,9 @@ description: A guide in my new Starlight docs site.
   * Windows: <https://github.com/fuhsjr00/bug.n>
   * Ubuntu: <https://i3wm.org/>
 * <https://github.com/junegunn/fzf>
+* <https://github.com/tmux-plugins/tmux-resurrect>
+* <https://github.com/tmux-python/tmuxp>
+* <https://github.com/tmuxinator/tmuxinator>
 
 ```bash
 ansible-playbook fem.yml
