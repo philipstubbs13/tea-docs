@@ -150,6 +150,10 @@ export default defineConfig({
               label: "Developer Productivity",
               link: "/notes/developer-productivity",
             },
+            {
+              label: "Testing Fundamentals",
+              link: "/notes/testing-fundamentals",
+            },
           ],
         },
       ],
