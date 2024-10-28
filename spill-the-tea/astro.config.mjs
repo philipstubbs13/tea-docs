@@ -154,6 +154,10 @@ export default defineConfig({
               label: "Testing Fundamentals",
               link: "/notes/testing-fundamentals",
             },
+            {
+              label: "Web Peformance Fundamentals",
+              link: "/notes/web-performance-fundamentals",
+            },
           ],
         },
       ],
