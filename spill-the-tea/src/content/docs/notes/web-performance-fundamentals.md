@@ -17,3 +17,8 @@ description: A guide in my new Starlight docs site.
 * Speed Check Tool: <https://requestmetrics.com/resources/tools/crux/>
 * <https://pagespeed.web.dev/>
 * <https://www.webpagetest.org/>
+* <https://github.com/akamai/boomerang>
+* <https://www.gnu.org/software/gzip/>
+* <https://github.com/google/brotli>
+* <https://wondernetwork.com/>
+* <https://bunny.net/>
