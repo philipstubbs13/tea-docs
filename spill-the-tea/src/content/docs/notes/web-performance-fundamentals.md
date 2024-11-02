@@ -25,3 +25,6 @@ description: A guide in my new Starlight docs site.
 * <https://tinypng.com/>
 * <https://github.com/jimp-dev/jimp>
 * <https://jakearchibald.github.io/svgomg/>
+* <https://requestmetrics.com/resources/tools/crux/>
+* <https://requestmetrics.com/>
+* <https://requestmetrics.com/contact/todd/>

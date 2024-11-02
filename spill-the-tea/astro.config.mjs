@@ -158,6 +158,10 @@ export default defineConfig({
               label: "Web Peformance Fundamentals",
               link: "/notes/web-performance-fundamentals",
             },
+            {
+              label: "Next.js 15",
+              link: "/notes/nextjs-15",
+            },
           ],
         },
       ],
