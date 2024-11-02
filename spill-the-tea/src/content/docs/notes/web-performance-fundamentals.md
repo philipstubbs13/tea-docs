@@ -22,3 +22,6 @@ description: A guide in my new Starlight docs site.
 * <https://github.com/google/brotli>
 * <https://wondernetwork.com/>
 * <https://bunny.net/>
+* <https://tinypng.com/>
+* <https://github.com/jimp-dev/jimp>
+* <https://jakearchibald.github.io/svgomg/>
