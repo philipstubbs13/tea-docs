@@ -166,6 +166,10 @@ export default defineConfig({
               label: "Intro to SQL",
               link: "/notes/intro-to-sql",
             },
+            {
+              label: "JavaScript and TypeScript monorepos",
+              link: "/notes/js-ts-monorepos",
+            },
           ],
         },
       ],
