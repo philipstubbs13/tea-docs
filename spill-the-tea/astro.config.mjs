@@ -162,6 +162,10 @@ export default defineConfig({
               label: "Next.js 15",
               link: "/notes/nextjs-15",
             },
+            {
+              label: "Intro to SQL",
+              link: "/notes/intro-to-sql",
+            },
           ],
         },
       ],
