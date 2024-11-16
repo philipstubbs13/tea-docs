@@ -9,3 +9,5 @@ description: A guide in my new Starlight docs site.
 * <https://github.com/rodriguezcommaj/frontendmasters>
 * <https://rodriguezcommaj.com/>
 * <https://www.litmus.com/extension>
+* <https://buttons.cm/>
+* <https://litmus.com/community>
