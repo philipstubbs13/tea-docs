@@ -170,6 +170,10 @@ export default defineConfig({
               label: "JavaScript and TypeScript monorepos",
               link: "/notes/js-ts-monorepos",
             },
+            {
+              label: "HTML Email Development",
+              link: "/notes/html-email-development",
+            },
           ],
         },
       ],
