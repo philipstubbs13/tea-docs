@@ -11,3 +11,8 @@ description: A guide in my new Starlight docs site.
 * <https://www.litmus.com/extension>
 * <https://buttons.cm/>
 * <https://litmus.com/community>
+* <https://www.tpgi.com/nvda-a-free-and-open-source-screen-reader-for-windows/>
+* <https://help.apple.com/voiceover/mac/10.15/>
+* <https://www.freedomscientific.com/products/software/jaws/>
+* <https://silktide.com/>
+* <https://wave.webaim.org/>
