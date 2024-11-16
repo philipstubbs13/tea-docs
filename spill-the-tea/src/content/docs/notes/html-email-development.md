@@ -7,3 +7,5 @@ description: A guide in my new Starlight docs site.
 
 * <https://static.frontendmasters.com/resources/2019-09-26-html-email-v2/html-email-v2.pdf>
 * <https://github.com/rodriguezcommaj/frontendmasters>
+* <https://rodriguezcommaj.com/>
+* <https://www.litmus.com/extension>
