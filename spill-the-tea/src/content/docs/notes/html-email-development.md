@@ -17,3 +17,13 @@ description: A guide in my new Starlight docs site.
 * <https://silktide.com/>
 * <https://wave.webaim.org/>
 * <https://webdesignerdepot.com/punched-card-coding-the-secret-of-interactive-email/>
+* <https://playground.amp.dev/>
+* <https://putsmail.com/>
+* <https://www.caniemail.com/>
+* <https://www.campaignmonitor.com/css/>
+* <https://freshinbox.com/resources/>
+* <https://mjml.io/>
+* <https://get.foundation/>
+* <https://maizzle.com/>
+* <https://email.geeks.chat/>
+* <https://thebetter.email/resources/>
