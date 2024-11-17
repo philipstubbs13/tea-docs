@@ -16,3 +16,4 @@ description: A guide in my new Starlight docs site.
 * <https://www.freedomscientific.com/products/software/jaws/>
 * <https://silktide.com/>
 * <https://wave.webaim.org/>
+* <https://webdesignerdepot.com/punched-card-coding-the-secret-of-interactive-email/>
