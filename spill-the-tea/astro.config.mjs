@@ -174,6 +174,10 @@ export default defineConfig({
               label: "HTML Email Development",
               link: "/notes/html-email-development",
             },
+            {
+              label: "SVG Essentials and Animations",
+              link: "/notes/svg-essentials-animations",
+            },
           ],
         },
       ],
