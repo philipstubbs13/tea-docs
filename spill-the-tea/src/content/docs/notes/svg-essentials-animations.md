@@ -35,3 +35,5 @@ description: A guide in my new Starlight docs site.
 * <https://codepen.io/sdras/full/amJLxN>
 * <https://codepen.io/sdras/pen/waXKPw>
 * <https://gsap.com/svg/>
+* <https://css-tricks.com/masking-vs-clipping-use/>
+* <https://bennettfeely.com/clippy/>
