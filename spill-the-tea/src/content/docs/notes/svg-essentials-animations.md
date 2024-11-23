@@ -37,3 +37,5 @@ description: A guide in my new Starlight docs site.
 * <https://gsap.com/svg/>
 * <https://css-tricks.com/masking-vs-clipping-use/>
 * <https://bennettfeely.com/clippy/>
+* <https://css-tricks.com/mega-list-svg-information/>
+* <https://www.bustle.com/flowcharts>
