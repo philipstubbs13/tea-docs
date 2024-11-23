@@ -24,3 +24,14 @@ description: A guide in my new Starlight docs site.
 * <https://github.com/svg/svgo>
 * <https://github.com/svg/svgo-gui>
 * <https://inkscape.org/>
+* <https://codepen.io/sdras/full/xbyopy>
+* <https://cubic-bezier.com/#.17,.67,.83,.67>
+* <https://gsap.com/docs/v3/Eases/>
+* <https://codepen.io/sdras/full/Wramvo>
+* <https://github.com/sdras/vue-sample-svg-icons>
+* <https://v2.vuejs.org/v2/cookbook/editable-svg-icons.html?redirect=true>
+* <https://rosenfeldmedia.com/books/designing-interface-animation/>
+* <https://css-tricks.com/the-importance-of-context-shifting-in-ux-patterns/>
+* <https://codepen.io/sdras/full/amJLxN>
+* <https://codepen.io/sdras/pen/waXKPw>
+* <https://gsap.com/svg/>
