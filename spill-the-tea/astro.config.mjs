@@ -178,6 +178,10 @@ export default defineConfig({
               label: "SVG Essentials and Animations",
               link: "/notes/svg-essentials-animations",
             },
+            {
+              label: "Rust Programming Language",
+              link: "/notes/rust-programming-language",
+            },
           ],
         },
       ],
