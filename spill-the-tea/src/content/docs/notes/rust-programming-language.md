@@ -10,3 +10,6 @@ description: A guide in my new Starlight docs site.
 * <https://makepad.dev/>
 * <https://crates.io/>
 * <https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer>
+* <https://www.rust-lang.org/community>
+* <https://rust-analyzer.github.io/>
+* <https://www.rust-lang.org/learn>
