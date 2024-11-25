@@ -8,3 +8,5 @@ description: A guide in my new Starlight docs site.
 * <https://rtfeldman-rust-workshop.netlify.app/>
 * <https://frontendmasters.com/courses/rust/>
 * <https://makepad.dev/>
+* <https://crates.io/>
+* <https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer>
