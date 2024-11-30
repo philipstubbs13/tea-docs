@@ -182,6 +182,10 @@ export default defineConfig({
               label: "Rust Programming Language",
               link: "/notes/rust-programming-language",
             },
+            {
+              label: "Web Development Project: Personal Portfolio Website",
+              link: "/notes/web-development-project-personal-portfolio",
+            },
           ],
         },
       ],
