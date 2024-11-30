@@ -186,6 +186,10 @@ export default defineConfig({
               label: "Web Development Project: Personal Portfolio Website",
               link: "/notes/web-development-project-personal-portfolio",
             },
+            {
+              label: "Getting Started with JavaScript",
+              link: "/notes/getting-started-with-javascript",
+            },
           ],
         },
       ],
