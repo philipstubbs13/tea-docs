@@ -190,6 +190,10 @@ export default defineConfig({
               label: "Getting Started with JavaScript",
               link: "/notes/getting-started-with-javascript",
             },
+            {
+              label: "Getting a Software Engineering Job",
+              link: "/notes/getting-a-software-engineering-job",
+            },
           ],
         },
       ],
