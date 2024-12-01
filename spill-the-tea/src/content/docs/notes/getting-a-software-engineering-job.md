@@ -17,3 +17,5 @@ description: A guide in my new Starlight docs site.
 * <https://github.com/matiassingers/awesome-readme>
 * <https://pages.github.com/>
 * <https://frontendmasters.com/blog/exactly-how-to-deploy-local-files-to-make-a-live-website/>
+* <https://frontendmasters.com/guides/front-end-handbook/2024/>
+* <https://exercism.org/>
