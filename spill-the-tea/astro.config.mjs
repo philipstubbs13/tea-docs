@@ -194,6 +194,10 @@ export default defineConfig({
               label: "Getting a Software Engineering Job",
               link: "/notes/getting-a-software-engineering-job",
             },
+            {
+              label: "Intro to React",
+              link: "/notes/intro-to-react",
+            },
           ],
         },
       ],
