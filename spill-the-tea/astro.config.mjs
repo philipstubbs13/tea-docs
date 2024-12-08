@@ -198,6 +198,10 @@ export default defineConfig({
               label: "Intro to React",
               link: "/notes/intro-to-react",
             },
+            {
+              label: "Bare Metal JavaScript",
+              link: "/notes/bare-metal-javascript",
+            },
           ],
         },
       ],
