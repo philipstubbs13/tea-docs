@@ -202,6 +202,10 @@ export default defineConfig({
               label: "Bare Metal JavaScript",
               link: "/notes/bare-metal-javascript",
             },
+            {
+              label: "JavaScript First Steps",
+              link: "/notes/javascript-first-steps",
+            },
           ],
         },
       ],
