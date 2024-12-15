@@ -9,3 +9,6 @@ description: A guide in my new Starlight docs site.
 * <https://developer.mozilla.org/en-US/docs/Web/JavaScript>
 * <https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model>
 * <https://dog.ceo/>
+* <https://justjavascript.com/>
+* <https://www.11ty.dev/blog/>
+* <https://astro.build/>
