@@ -206,6 +206,10 @@ export default defineConfig({
               label: "JavaScript First Steps",
               link: "/notes/javascript-first-steps",
             },
+            {
+              label: "Engineering Management",
+              link: "/notes/engineering-management",
+            },
           ],
         },
       ],
