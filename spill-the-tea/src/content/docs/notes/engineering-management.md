@@ -9,3 +9,5 @@ description: A guide in my new Starlight docs site.
 * <https://www.frontendhappyhour.com/>
 * <https://randsinrepose.com/welcome-to-rands-leadership-slack/>
 * <https://leaddev.com/>
+* <https://frontendmasters.com/courses/engineering-management/>
+* <https://static.frontendmasters.com/assets/courses/2024-01-15-engineering-management/engineering-management-slides.pdf>
