@@ -7,3 +7,5 @@ description: A guide in my new Starlight docs site.
 
 * <https://static.frontendmasters.com/assets/courses/2024-01-14-intro-management/intro-management-slides.pdf>
 * <https://www.frontendhappyhour.com/>
+* <https://randsinrepose.com/welcome-to-rands-leadership-slack/>
+* <https://leaddev.com/>
