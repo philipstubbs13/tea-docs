@@ -210,6 +210,10 @@ export default defineConfig({
               label: "Engineering Management",
               link: "/notes/engineering-management",
             },
+            {
+              label: "Artificial Intelligence",
+              link: "/notes/artificial-intelligence",
+            },
           ],
         },
       ],
