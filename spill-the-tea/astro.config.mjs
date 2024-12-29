@@ -214,6 +214,10 @@ export default defineConfig({
               label: "Artificial Intelligence",
               link: "/notes/artificial-intelligence",
             },
+            {
+              label: "Forms",
+              link: "/notes/forms",
+            },
           ],
         },
       ],
