@@ -218,6 +218,10 @@ export default defineConfig({
               label: "Forms",
               link: "/notes/forms",
             },
+            {
+              label: "Vue.js",
+              link: "/notes/vuejs",
+            },
           ],
         },
       ],
