@@ -222,6 +222,10 @@ export default defineConfig({
               label: "Vue.js",
               link: "/notes/vuejs",
             },
+            {
+              label: "Intro to Web Development",
+              link: "/notes/intro-to-web-development",
+            },
           ],
         },
       ],
