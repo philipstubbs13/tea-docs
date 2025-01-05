@@ -226,6 +226,10 @@ export default defineConfig({
               label: "Intro to Web Development",
               link: "/notes/intro-to-web-development",
             },
+            {
+              label: "Vim Fundamentals",
+              link: "/notes/vim-fundamentals",
+            },
           ],
         },
       ],
