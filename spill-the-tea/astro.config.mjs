@@ -230,6 +230,11 @@ export default defineConfig({
               label: "Vim Fundamentals",
               link: "/notes/vim-fundamentals",
             },
+
+            {
+              label: "Making TypeScript Stick",
+              link: "/notes/making-typescript-stick",
+            },
           ],
         },
       ],
