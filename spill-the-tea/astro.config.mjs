@@ -235,6 +235,10 @@ export default defineConfig({
               label: "Making TypeScript Stick",
               link: "/notes/making-typescript-stick",
             },
+            {
+              label: "Professional CSS",
+              link: "/notes/professional-css",
+            },
           ],
         },
       ],
