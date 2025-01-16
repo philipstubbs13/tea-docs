@@ -239,6 +239,10 @@ export default defineConfig({
               label: "Professional CSS",
               link: "/notes/professional-css",
             },
+            {
+              label: "Testing Web Apps With Cypress",
+              link: "/notes/testing-web-apps-with-cypress",
+            },
           ],
         },
       ],
