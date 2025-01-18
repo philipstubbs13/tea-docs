@@ -7,3 +7,4 @@ description: A guide in my new Starlight docs site.
 
 * <https://github.com/stevekinney/cypress>
 * <https://www.cypress.io/>
+* <https://github.com/stevekinney/cypress-starter>
