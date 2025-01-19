@@ -243,6 +243,10 @@ export default defineConfig({
               label: "Testing Web Apps With Cypress",
               link: "/notes/testing-web-apps-with-cypress",
             },
+            {
+              label: "Web Components",
+              link: "/notes/web-components",
+            },
           ],
         },
       ],
