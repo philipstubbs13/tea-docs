@@ -247,6 +247,14 @@ export default defineConfig({
               label: "Web Components",
               link: "/notes/web-components",
             },
+            {
+              label: "Production Grade Angular",
+              link: "/notes/production-grade-angular",
+            },
+            {
+              label: "Functional Javascript First Steps",
+              link: "/notes/functional-javascript-first-steps",
+            },
           ],
         },
       ],
