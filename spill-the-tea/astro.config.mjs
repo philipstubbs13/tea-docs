@@ -255,6 +255,10 @@ export default defineConfig({
               label: "Functional Javascript First Steps",
               link: "/notes/functional-javascript-first-steps",
             },
+            {
+              label: "Mastering Chrome Developer Tools",
+              link: "/notes/mastering-chrome-developer-tools",
+            },
           ],
         },
       ],
