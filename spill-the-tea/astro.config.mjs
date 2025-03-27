@@ -259,6 +259,10 @@ export default defineConfig({
               label: "Mastering Chrome Developer Tools",
               link: "/notes/mastering-chrome-developer-tools",
             },
+            {
+              label: "Website Accessibility",
+              link: "/notes/web-accessibility",
+            },
           ],
         },
       ],
