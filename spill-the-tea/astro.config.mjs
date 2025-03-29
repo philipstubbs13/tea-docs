@@ -263,6 +263,10 @@ export default defineConfig({
               label: "Website Accessibility",
               link: "/notes/web-accessibility",
             },
+            {
+              label: "Sorting Algorithms",
+              link: "/notes/sorting-algorithms",
+            },
           ],
         },
       ],
