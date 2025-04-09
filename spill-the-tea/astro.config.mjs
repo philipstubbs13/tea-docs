@@ -267,6 +267,10 @@ export default defineConfig({
               label: "Sorting Algorithms",
               link: "/notes/sorting-algorithms",
             },
+            {
+              label: "Next.js Fundamentals",
+              link: "/notes/nextjs-fundamentals-v4",
+            },
           ],
         },
       ],
