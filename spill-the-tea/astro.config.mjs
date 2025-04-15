@@ -271,6 +271,10 @@ export default defineConfig({
               label: "Next.js Fundamentals",
               link: "/notes/nextjs-fundamentals-v4",
             },
+            {
+              label: "Debugging React Apps",
+              link: "/notes/debugging-react-apps",
+            },
           ],
         },
       ],
