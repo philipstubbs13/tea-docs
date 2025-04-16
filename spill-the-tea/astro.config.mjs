@@ -275,6 +275,10 @@ export default defineConfig({
               label: "Debugging React Apps",
               link: "/notes/debugging-react-apps",
             },
+            {
+              label: "Signals in React",
+              link: "/notes/signals-in-react",
+            },
           ],
         },
       ],
