@@ -279,6 +279,10 @@ export default defineConfig({
               label: "Signals in React",
               link: "/notes/signals-in-react",
             },
+            {
+              label: "Intermediate React v6",
+              link: "/notes/intermediate-react-v6",
+            },
           ],
         },
       ],
