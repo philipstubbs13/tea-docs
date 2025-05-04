@@ -283,6 +283,10 @@ export default defineConfig({
               label: "Intermediate React v6",
               link: "/notes/intermediate-react-v6",
             },
+            {
+              label: "Go for Professional Developers",
+              link: "/notes/go-for-professional-developers",
+            },
           ],
         },
       ],
