@@ -15,6 +15,10 @@ description: A guide in my new Starlight docs site.
 * <https://github.com/pressly/goose>
 * <https://stackoverflow.com/questions/56475313/how-to-fix-go-get-warning-modules-disabled-by-go111module-auto-in-gopath-src>
 * <https://github.com/jackc/pgx>
+* <https://go.dev/doc/tutorial/create-module>
+* <https://thorstenball.com/books/>
+* <https://www.youtube.com/watch?v=8hQG7QlcLBk>
+* <https://github.com/stretchr/testify>
 
 ```
 go mod init beginnerGo
