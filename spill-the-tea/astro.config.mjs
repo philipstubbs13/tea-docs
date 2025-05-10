@@ -287,6 +287,10 @@ export default defineConfig({
               label: "Go for Professional Developers",
               link: "/notes/go-for-professional-developers",
             },
+            {
+              label: "Become a VS Code Power User",
+              link: "/notes/become-vscode-power-user",
+            },
           ],
         },
       ],
