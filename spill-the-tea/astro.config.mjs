@@ -1,5 +1,5 @@
-import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
+import { defineConfig } from "astro/config";
 import starlightBlog from "starlight-blog";
 
 // https://astro.build/config
@@ -290,6 +290,10 @@ export default defineConfig({
             {
               label: "Become a VS Code Power User",
               link: "/notes/become-vscode-power-user",
+            },
+            {
+              label: "Fullstack TypeScript",
+              link: "/notes/fullstack-typescript",
             },
           ],
         },
