@@ -7,3 +7,4 @@ description: A guide in my new Starlight docs site.
 
 * <https://stevekinney.com/courses/full-stack-typescript>
 * <https://github.com/stevekinney/full-stack-typescript/tree/main>
+* <https://zod.dev/>
