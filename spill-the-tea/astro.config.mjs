@@ -295,6 +295,10 @@ export default defineConfig({
               label: "Fullstack TypeScript",
               link: "/notes/fullstack-typescript",
             },
+            {
+              label: "Go & Vanilla JS",
+              link: "/notes/go-vanillajs",
+            },
           ],
         },
       ],
