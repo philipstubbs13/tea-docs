@@ -299,6 +299,10 @@ export default defineConfig({
               label: "Go & Vanilla JS",
               link: "/notes/go-vanillajs",
             },
+            {
+              label: "State Management at Scale React and Next.js",
+              link: "/notes/state-management-at-scale-react",
+            },
           ],
         },
       ],
