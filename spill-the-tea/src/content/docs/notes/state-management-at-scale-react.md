@@ -6,3 +6,5 @@ description: A guide in my new Starlight docs site.
 - <https://frontendmasters.com/courses/react-nextjs-state/>
 
 * <https://github.com/davidkpiano/frontend-masters-state-workshop>
+* <https://frontendmasters.com/courses/xstate-v2/>
+* <https://www.tldraw.com/>
