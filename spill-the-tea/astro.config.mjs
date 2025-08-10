@@ -303,6 +303,10 @@ export default defineConfig({
               label: "State Management at Scale React and Next.js",
               link: "/notes/state-management-at-scale-react",
             },
+            {
+              label: "Tailwind CSS",
+              link: "/notes/tailwind-css-v2",
+            },
           ],
         },
       ],
