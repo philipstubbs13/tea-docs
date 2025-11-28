@@ -307,6 +307,10 @@ export default defineConfig({
               label: "Tailwind CSS",
               link: "/notes/tailwind-css-v2",
             },
+            {
+              label: "React and TypeScript v3",
+              link: "/notes/react-typescript-v3",
+            },
           ],
         },
       ],
