@@ -311,6 +311,10 @@ export default defineConfig({
               label: "React and TypeScript v3",
               link: "/notes/react-typescript-v3",
             },
+            {
+              label: "React Performance v2",
+              link: "/notes/react-performance-v2",
+            },
           ],
         },
       ],
