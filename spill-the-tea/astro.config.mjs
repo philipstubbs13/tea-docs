@@ -315,6 +315,10 @@ export default defineConfig({
               label: "React Performance v2",
               link: "/notes/react-performance-v2",
             },
+            {
+              label: "Getting Started With JavaScript, v3",
+              link: "/notes/getting-started-with-javascript-v3",
+            },
           ],
         },
       ],
