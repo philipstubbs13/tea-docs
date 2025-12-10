@@ -319,6 +319,10 @@ export default defineConfig({
               label: "Getting Started With JavaScript, v3",
               link: "/notes/getting-started-with-javascript-v3",
             },
+            {
+              label: "TypeScript: From First Steps to Professional",
+              link: "/notes/typescript-first-steps",
+            },
           ],
         },
       ],
