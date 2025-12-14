@@ -323,6 +323,10 @@ export default defineConfig({
               label: "TypeScript: From First Steps to Professional",
               link: "/notes/typescript-first-steps",
             },
+            {
+              label: "Build a Fullstack Next.js App, v4",
+              link: "/notes/fullstack-nextjs-app-v4",
+            },
           ],
         },
       ],
