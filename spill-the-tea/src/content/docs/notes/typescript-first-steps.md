@@ -8,3 +8,4 @@ description: A guide in my new Starlight docs site.
 
 * <https://anjana.dev/typescript-first-steps/>
 * <https://github.com/vakila/typescript-first-steps>
+* <https://www.typescriptlang.org/docs/handbook/intro-to-js-ts.html>
