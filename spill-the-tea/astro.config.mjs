@@ -327,6 +327,10 @@ export default defineConfig({
               label: "Build a Fullstack Next.js App, v4",
               link: "/notes/fullstack-nextjs-app-v4",
             },
+            {
+              label: "API Design in Node.js, v5",
+              link: "/notes/api-design-in-nodejs-v5",
+            },
           ],
         },
       ],
