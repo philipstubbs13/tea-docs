@@ -331,6 +331,11 @@ export default defineConfig({
               label: "API Design in Node.js, v5",
               link: "/notes/api-design-in-nodejs-v5",
             },
+            {
+              label:
+                "Intermediate Vue: Composition API, Slots & State Management",
+              link: "/notes/intermediate-vue",
+            },
           ],
         },
       ],
