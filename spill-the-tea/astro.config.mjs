@@ -336,6 +336,10 @@ export default defineConfig({
                 "Intermediate Vue: Composition API, Slots & State Management",
               link: "/notes/intermediate-vue",
             },
+            {
+              label: "TypeScript Monorepos",
+              link: "/notes/typescript-monorepos",
+            },
           ],
         },
       ],
