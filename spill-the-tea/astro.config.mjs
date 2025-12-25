@@ -340,6 +340,10 @@ export default defineConfig({
               label: "TypeScript Monorepos",
               link: "/notes/typescript-monorepos",
             },
+            {
+              label: "Practical Prompt Engineering",
+              link: "/notes/practical-prompt-engineering",
+            },
           ],
         },
       ],
