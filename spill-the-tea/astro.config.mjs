@@ -344,6 +344,10 @@ export default defineConfig({
               label: "Practical Prompt Engineering",
               link: "/notes/practical-prompt-engineering",
             },
+            {
+              label: "Developer Productivity",
+              link: "/notes/dev-productivity",
+            },
           ],
         },
       ],
