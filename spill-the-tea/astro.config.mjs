@@ -348,6 +348,10 @@ export default defineConfig({
               label: "Developer Productivity",
               link: "/notes/dev-productivity",
             },
+            {
+              label: "Award Winning Marketing Websites",
+              link: "/notes/award-winning-marketing-websites",
+            },
           ],
         },
       ],
