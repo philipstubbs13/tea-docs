@@ -352,6 +352,10 @@ export default defineConfig({
               label: "Award Winning Marketing Websites",
               link: "/notes/award-winning-marketing-websites",
             },
+            {
+              label: "Modern CSS Fundamentals",
+              link: "/notes/modern-css-fundamentals",
+            },
           ],
         },
       ],
