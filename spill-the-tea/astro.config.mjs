@@ -356,6 +356,10 @@ export default defineConfig({
               label: "Modern CSS Fundamentals",
               link: "/notes/modern-css-fundamentals",
             },
+            {
+              label: "Enterprise UI Development",
+              link: "/notes/enterprise-ui-development",
+            },
           ],
         },
       ],
