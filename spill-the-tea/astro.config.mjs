@@ -360,6 +360,10 @@ export default defineConfig({
               label: "Enterprise UI Development",
               link: "/notes/enterprise-ui-development",
             },
+            {
+              label: "Permission Systems that Scale",
+              link: "/notes/permission-systems-that-scale",
+            },
           ],
         },
       ],
