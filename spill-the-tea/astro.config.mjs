@@ -364,6 +364,10 @@ export default defineConfig({
               label: "Permission Systems that Scale",
               link: "/notes/permission-systems-that-scale",
             },
+            {
+              label: "Get Kids into Coding With Scratch",
+              link: "/notes/coding-with-scratch",
+            },
           ],
         },
       ],
