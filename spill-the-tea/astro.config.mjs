@@ -368,6 +368,10 @@ export default defineConfig({
               label: "Get Kids into Coding With Scratch",
               link: "/notes/coding-with-scratch",
             },
+            {
+              label: "JavaScript The Hard Parts",
+              link: "/notes/javascript-the-hard-parts",
+            },
           ],
         },
       ],
