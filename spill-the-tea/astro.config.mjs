@@ -372,6 +372,10 @@ export default defineConfig({
               label: "JavaScript The Hard Parts",
               link: "/notes/javascript-the-hard-parts",
             },
+            {
+              label: "Senior Level Frontend Interview Prep",
+              link: "/notes/senior-level-frontend-interview-prep",
+            },
           ],
         },
       ],
