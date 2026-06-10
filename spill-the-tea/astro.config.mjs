@@ -376,6 +376,10 @@ export default defineConfig({
               label: "Senior Level Frontend Interview Prep",
               link: "/notes/senior-level-frontend-interview-prep",
             },
+            {
+              label: "Playwright Automated Testing",
+              link: "/notes/playwright-automated-testing",
+            },
           ],
         },
       ],
