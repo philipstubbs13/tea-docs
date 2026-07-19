@@ -380,6 +380,10 @@ export default defineConfig({
               label: "Playwright Automated Testing",
               link: "/notes/playwright-automated-testing",
             },
+            {
+              label: "Tanstack Start & TanStack Query",
+              link: "/notes/tanstack-start-query",
+            },
           ],
         },
       ],
