@@ -384,6 +384,10 @@ export default defineConfig({
               label: "Tanstack Start & TanStack Query",
               link: "/notes/tanstack-start-query",
             },
+            {
+              label: "Deploying Web Applications on AWS, v3",
+              link: "/notes/deploying-web-applications-aws",
+            },
           ],
         },
       ],
