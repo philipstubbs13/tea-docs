@@ -388,6 +388,10 @@ export default defineConfig({
               label: "Deploying Web Applications on AWS, v3",
               link: "/notes/deploying-web-applications-aws",
             },
+            {
+              label: "Typescript in the Age of AI",
+              link: "/notes/typescript-in-the-age-of-ai",
+            },
           ],
         },
       ],
