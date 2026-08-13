@@ -392,6 +392,10 @@ export default defineConfig({
               label: "Typescript in the Age of AI",
               link: "/notes/typescript-in-the-age-of-ai",
             },
+            {
+              label: "Claude Code",
+              link: "/notes/claude-code",
+            },
           ],
         },
       ],
