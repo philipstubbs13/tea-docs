@@ -396,6 +396,10 @@ export default defineConfig({
               label: "Claude Code",
               link: "/notes/claude-code",
             },
+            {
+              label: "Frontend Architecture Monoliths to Microfrontends",
+              link: "/notes/frontend-architecture-monoliths-to-microfrontends",
+            },
           ],
         },
       ],
