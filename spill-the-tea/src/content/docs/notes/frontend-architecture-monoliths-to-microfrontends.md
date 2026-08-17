@@ -10,3 +10,4 @@ description: A guide in my new Starlight docs site.
 * <https://github.com/ddd-crew/ddd-starter-modelling-process>
 * <https://github.com/sverweij/dependency-cruiser>
 * <https://www.jsboundaries.dev/docs/classification/elements/#capture-optional>
+* <https://github.com/nanostores/nanostores/>
