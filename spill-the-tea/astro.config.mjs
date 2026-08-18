@@ -400,6 +400,10 @@ export default defineConfig({
               label: "Frontend Architecture Monoliths to Microfrontends",
               link: "/notes/frontend-architecture-monoliths-to-microfrontends",
             },
+            {
+              label: "Getting Started With Rails",
+              link: "/notes/getting-started-with-rails",
+            },
           ],
         },
       ],
