@@ -404,6 +404,10 @@ export default defineConfig({
               label: "Getting Started With Rails",
               link: "/notes/getting-started-with-rails",
             },
+            {
+              label: "Svelte and Sveltekit",
+              link: "/notes/svelte-sveltekit",
+            },
           ],
         },
       ],
