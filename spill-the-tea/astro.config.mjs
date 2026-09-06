@@ -408,6 +408,14 @@ export default defineConfig({
               label: "Svelte and Sveltekit",
               link: "/notes/svelte-sveltekit",
             },
+            {
+              label: "Agentic Frontend Development",
+              link: "/notes/agentic-frontend-development",
+            },
+            {
+              label: "Python for Professional Developers",
+              link: "/notes/python-for-professional-developers",
+            },
           ],
         },
       ],
