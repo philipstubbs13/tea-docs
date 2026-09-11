@@ -416,6 +416,10 @@ export default defineConfig({
               label: "Python for Professional Developers",
               link: "/notes/python-for-professional-developers",
             },
+            {
+              label: "Own Your AI Stack with Local Models",
+              link: "/notes/ai-stack-with-local-models",
+            },
           ],
         },
       ],
