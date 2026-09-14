@@ -420,6 +420,10 @@ export default defineConfig({
               label: "Own Your AI Stack with Local Models",
               link: "/notes/ai-stack-with-local-models",
             },
+            {
+              label: "Complete Intro to Databases v2",
+              link: "/notes/complete-intro-to-databases-v2",
+            },
           ],
         },
       ],
