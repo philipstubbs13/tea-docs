@@ -424,6 +424,10 @@ export default defineConfig({
               label: "Complete Intro to Databases v2",
               link: "/notes/complete-intro-to-databases-v2",
             },
+            {
+              label: "Cursor & Claude Code: Professional AI Setup",
+              link: "/notes/cursor-claude-code-setup",
+            },
           ],
         },
       ],
