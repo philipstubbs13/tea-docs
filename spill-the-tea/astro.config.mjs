@@ -428,6 +428,10 @@ export default defineConfig({
               label: "Cursor & Claude Code: Professional AI Setup",
               link: "/notes/cursor-claude-code-setup",
             },
+            {
+              label: "Getting Started With Laravel",
+              link: "/notes/getting-started-with-laravel",
+            },
           ],
         },
       ],
