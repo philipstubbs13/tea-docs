@@ -432,6 +432,10 @@ export default defineConfig({
               label: "Getting Started With Laravel",
               link: "/notes/getting-started-with-laravel",
             },
+            {
+              label: "Build a Fullstack App with Codex",
+              link: "/notes/fullstack-app-with-codex",
+            },
           ],
         },
       ],
