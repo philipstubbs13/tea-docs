@@ -436,6 +436,10 @@ export default defineConfig({
               label: "Build a Fullstack App with Codex",
               link: "/notes/fullstack-app-with-codex",
             },
+            {
+              label: "Intermediate Angular Signals and Dependency Injection",
+              link: "/notes/intermediate-angular-signals",
+            },
           ],
         },
       ],
