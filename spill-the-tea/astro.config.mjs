@@ -440,6 +440,10 @@ export default defineConfig({
               label: "Intermediate Angular Signals and Dependency Injection",
               link: "/notes/intermediate-angular-signals",
             },
+            {
+              label: "Practical AI Agent Workflows",
+              link: "/notes/ai-agent-workflows",
+            },
           ],
         },
       ],
