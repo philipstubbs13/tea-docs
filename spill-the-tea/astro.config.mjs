@@ -444,6 +444,10 @@ export default defineConfig({
               label: "Practical AI Agent Workflows",
               link: "/notes/ai-agent-workflows",
             },
+            {
+              label: "State Machines in JavaScript",
+              link: "/notes/state-machines-javascript",
+            },
           ],
         },
       ],
